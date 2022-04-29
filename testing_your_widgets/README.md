@@ -6,4 +6,4 @@
     </a>
 </p>
 
-Article: https://itnext.io/tdd-in-flutter-part-3-testing-your-widgets-c5e87d76a864
+[Check the Article on Medium](https://itnext.io/tdd-in-flutter-part-3-testing-your-widgets-c5e87d76a864)
