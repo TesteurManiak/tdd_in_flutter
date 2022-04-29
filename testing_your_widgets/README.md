@@ -1,16 +1,9 @@
-# testing_your_widgets
+# Testing your widgets
 
-A new Flutter project.
+<p align="center">
+    <a href="https://rouxguillaume.medium.com/list/tdd-in-flutter-64d0d5f07854" target="_blank">
+        <img src="" alt="TDD in Flutter" width="600">
+    </a>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Article: https://itnext.io/tdd-in-flutter-part-3-testing-your-widgets-c5e87d76a864
