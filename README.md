@@ -1,4 +1,4 @@
-# tdd_in_flutter
+# TDD in Flutter
 
 <p align="left">
     <a href="https://rouxguillaume.medium.com/list/tdd-in-flutter-64d0d5f07854" target="_blank">
@@ -18,3 +18,8 @@
 
 * [Article](https://itnext.io/tdd-in-flutter-part-3-testing-your-widgets-c5e87d76a864)
 * [Code](/testing_your_widgets)
+
+## Special: Golden tests with Alchemist🧙🏼
+
+* [Article](https://itnext.io/tdd-in-flutter-special-golden-tests-with-alchemist-ea8c96ff4dfe)
+* [Code](/golden_tests_with_alchemist)
