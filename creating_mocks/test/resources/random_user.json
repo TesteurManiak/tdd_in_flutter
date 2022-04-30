@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Hannah",
+                "last": "Bélanger"
+            },
+            "location": {
+                "street": {
+                    "number": 3669,
+                    "name": "West Ave"
+                },
+                "city": "Odessa",
+                "state": "British Columbia",
+                "country": "Canada",
+                "postcode": "M5Z 8P2",
+                "coordinates": {
+                    "latitude": "-59.9721",
+                    "longitude": "17.8587"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "hannah.belanger@example.com",
+            "login": {
+                "uuid": "82605fa2-41c9-425f-a041-2d857227f56c",
+                "username": "bigcat843",
+                "password": "disney1",
+                "salt": "fWMjv7Ab",
+                "md5": "f7c985e30d234324bdf6285a488a05cc",
+                "sha1": "dcf5d55feb86f2f319b44aa790edf80791e5ec69",
+                "sha256": "fdb49fe1cc284da64b4b3b38b39c60e6b7696eeb147f3a9559738e9a133c426e"
+            },
+            "dob": {
+                "date": "1974-02-15T02:05:41.184Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2008-01-04T09:20:57.831Z",
+                "age": 14
+            },
+            "phone": "114-933-7706",
+            "cell": "771-702-0810",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "5e61d2b16c277fa9",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
