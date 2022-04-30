@@ -6,6 +6,13 @@
     </a>
 </p>
 
+## Table of Contents
+
+* [Introduction to Test Driven Development](#introduction-to-test-driven-development)
+* [How to write a unit test ?](#how-to-write-a-unit-test-)
+* [Testing your widgets](#testing-your-widgets)
+* [Special: Golden tests with Alchemist🧙🏼](#special-golden-tests-with-alchemist)
+
 ## Introduction to Test Driven Development
 
 * [Article](https://itnext.io/tdd-in-flutter-part-1-introduction-to-test-driven-development-c130b9e82f36)
