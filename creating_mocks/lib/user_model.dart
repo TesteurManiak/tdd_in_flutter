@@ -22,4 +22,24 @@ class UserModel {
       thumbnailUrl: json['picture']['thumbnail'] as String,
     );
   }
+
+  @override
+  bool operator ==(covariant UserModel other) {
+    if (identical(this, other)) return true;
+
+    return other.firstName == firstName &&
+        other.lastName == lastName &&
+        other.email == email &&
+        other.phone == phone &&
+        other.thumbnailUrl == thumbnailUrl;
+  }
+
+  @override
+  int get hashCode {
+    return firstName.hashCode ^
+        lastName.hashCode ^
+        email.hashCode ^
+        phone.hashCode ^
+        thumbnailUrl.hashCode;
+  }
 }
