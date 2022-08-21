@@ -19,3 +19,9 @@ or
 ```bash
 $> flutter test --tags mockito
 ```
+
+or
+
+```bash
+$> flutter test --tags custom
+```
