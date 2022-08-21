@@ -8,7 +8,7 @@ void main() {
   group('Custom Mock: RandomUserRepository', () {
     group('fetchRandomUser', () {
       test(
-        'should call getRandomUser from remote datasource',
+        'should return a UserModel parsed from resources/random_user.json',
         () async {
           // arrange
           final mockRemoteDataSource = MockRemoteDataSource();
