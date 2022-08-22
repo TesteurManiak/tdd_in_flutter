@@ -2,7 +2,7 @@ import 'package:creating_mocks/random_user_repository.dart';
 import 'package:creating_mocks/user_model.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'mock_remote_datasource.dart';
+import 'mocks.dart';
 
 void main() {
   group('Custom Mock: RandomUserRepository', () {
