@@ -15,6 +15,7 @@ class RemoteDataSourceImpl implements RemoteDataSource {
   Future<UserModel?> getRandomUser() async {
     final data = await _httpClient
         .get<Map<String, dynamic>>('https://randomuser.me/api/');
+
     if (data != null) {
       return UserModel.fromJson(data['results'][0] as Map<String, dynamic>);
     }
