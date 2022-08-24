@@ -10,7 +10,6 @@ import 'package:mockito/mockito.dart';
 import '../utils/fixture_reader.dart';
 import 'remote_datasource_impl_test.mocks.dart';
 
-// Annotation which generates the cat.mocks.dart library and the MockCat class.
 @GenerateMocks([MyHttpClient])
 void main() {
   late MockMyHttpClient mockClient;
