@@ -6,7 +6,7 @@
     </a>
 </p>
 
-[Check the Article on Medium]()
+[Check the Article on Medium](https://rouxguillaume.medium.com/tdd-in-flutter-part-4-creating-mocks-eb3b0a38bae0)
 
 You can run tests only for a specific mock implementation with:
 
